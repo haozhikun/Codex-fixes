@@ -1,4 +1,4 @@
-# Codex 使用代理时反复 Reconnecting 的排查与解决
+# Codex 使用代理时反复 Reconnecting 的排查与解决.
 
 > 适用系统：Windows、macOS  
 > 更新日期：2026-08-21
