@@ -1,4 +1,4 @@
-# Codex 插件商店搜不到 Computer Use 的排查与解决
+# Codex 插件商店搜不到 Computer Use 的排查与解决.
 
 > 适用系统：Windows、macOS  
 > 更新日期：2026-08-21
